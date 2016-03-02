@@ -1,0 +1,117 @@
+body {
+  background-color: black;
+  text-align: center;
+
+}
+
+.wrap {
+  max-width: 1700px;
+  margin: 0 auto;
+}
+
+.image {
+  text-align: center;
+
+}
+
+h1 {
+  text-align: center;
+  color: #73DCD0;
+  font-size: 144px;
+  font-style: "Helvetica";
+  margin: auto, 0px ;
+}
+
+h2 {
+  text-align: center;
+  color: #73DCD0;
+  font-size: 72px;
+}
+
+.band-background {
+  padding: 50px;
+
+}
+
+.text,
+.image {
+  color: white;
+
+}
+
+.text img {
+  max-width: 300px;
+  max-height: 170px;
+  padding-right: 40px;
+  padding-top: 30px;
+  margin: 0 auto;
+
+
+}
+
+.band-list {
+  font-size: 24px;
+  margin: 0;
+  padding: 0;
+}
+
+.member {
+  list-style: none;
+  display: inline-table;
+  width: 10%;
+  margin-top: 50px;
+  margin-right: 50px;
+}
+
+.table {
+  font-size: 24px;
+  color: white;
+  margin: 0 auto;
+  text-align: center;
+  max-width: 70%;
+}
+
+th,
+td {
+  border: 3px solid white;
+  padding: 40px;
+}
+
+th {
+  background-color: white;
+  color: black;
+}
+
+td {
+  font-size: 20px;
+}
+.album-info {
+  text-align: center;
+  padding: 10px;
+}
+
+
+.OK,
+.KID,
+.HAIL,
+.RAINBOWS {
+  padding: 50px;
+}
+
+
+.track-listing {
+margin: 0 auto;
+
+}
+
+.track-listing td{
+font-size: 18px;
+padding: 20px;
+}
+
+.OK,
+.KID,
+.HAIL,
+.RAINBOWS img{
+  margin: 0 auto;
+}
