@@ -115,3 +115,20 @@ padding: 20px;
 .RAINBOWS img{
   margin: 0 auto;
 }
+
+/* style the default link color */
+a:link {
+  color: #73DCD0
+}
+
+/* style visited links */
+a:visited {
+  color: #0B615E;
+}
+
+/* style hover/focus links */
+a:hover,
+a:active,
+a:focus {
+  color: #D94214;
+}
